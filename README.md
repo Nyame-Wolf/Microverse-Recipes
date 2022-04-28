@@ -1,2 +1,2 @@
-# odin-recipes
+# Microverse-recipes
 Pre-bootcamp microverse project
